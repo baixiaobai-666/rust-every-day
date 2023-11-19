@@ -10,4 +10,4 @@ Cargo.lock
 **/*.rs.bk
 *.out
 
-**/target/
+**/target/*
